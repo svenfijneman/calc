@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Calculator</title>
+		<script src="calculate.js"></script>
+		<script src="add.js"></script>
+		<script src="divide.js"></script>
+		<script src="multiply.js"></script>
+		<script src="substract.js"></script>
+		<script>
+			function actie(el) {
+				const uitkomst = calculate(document.getElementById('a').value, document.getElementById('b').value, el.value);
+				document.getElementById('result').innerHTML = uitkomst;
+			}
+		</script>
+	</head>
+	<body>
+		<input type="number" id="a" placeholder="nummer 1" />
+		<input type="number" id="b" placeholder="nummer 2" />
+		<select id="operator" onchange="actie(this);">
+			<option value="+">plus</option>
+			<option value="-">min</option>
+			<option value="*">maal</option>
+			<option value="/">deel</option>
+		</select>
+		<div id="result"></div>
+	</body>
+</html>
