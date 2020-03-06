@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4cb7b97-177d-4d86-b8e1-0c86f3058bc6" name="Default Changelist" comment="" />
+    <list default="true" id="b4cb7b97-177d-4d86-b8e1-0c86f3058bc6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calulator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/divide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiply.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/d9/62/a6889cb7fcb5f74679b4995fc488b42058fa7d1974386c75e566747c31bff92b1690152d887937e411caa9618019c796801b4879f3c927bff72da41e4080" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/dc/1e/0ecd21f63b681b13aecdd4c44a511dd8f30e2f82e81c5105402a7faa8790678e91e0b2f49d7acfae081176a4b05552c26cfba60d21f3aadc4adc6c141f43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/22/6b/3191e4b558e7f8c9e1948d58d9a257aec4f627b4bc0b5e8b9f50e85e9be4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/65/f2/f247ea4d7a8d7b639916d618b35d6927dba973bedd8b4266978f885ccf87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stijl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/substract.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1XtbFetsB2EAfMszXWItlkxVUyO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,8 +36,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -41,6 +64,9 @@
       <option name="presentableId" value="Default" />
       <updated>1581868235866</updated>
       <workItem from="1581868237888" duration="52000" />
+      <workItem from="1583156545870" duration="2288000" />
+      <workItem from="1583495816164" duration="157000" />
+      <workItem from="1583495987505" duration="34000" />
     </task>
     <servers />
   </component>
